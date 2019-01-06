@@ -2,7 +2,7 @@ package ImplementacaoPobre;
 
 class PizzaQuatroQueijos extends Pizza {
 	public void preparar() {
-		System.out.println("Preparando uma pizza quatro queijos...");
+		System.out.println("Preparando uma pizza quatro queijos!");
 	}
 
 }
